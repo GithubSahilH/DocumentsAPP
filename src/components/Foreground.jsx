@@ -6,19 +6,19 @@ function Foreground() {
   const ref = useRef(null);
   const data = [
     {
-      desc: "he is a bobogagagigi",
+      desc: "This is an audio file",
       filesize: ".3mb",
       close: false,
       tag: { isOpen: true, tagTitle: "Uploaded...", tagColor: "green" },
     },
     {
-      desc: "LOREM IPSUM TER MAs ki hutto.",
+      desc: "This is a PDF",
       filesize: ".9mb",
       close: true,
       tag: { isOpen: true, tagTitle: "Downloading Now...", tagColor: "green" },
     },
     {
-      desc: "gadi detergent pehle istimaal karo phit vis vas karo",
+      desc: "This is a MP4 file",
       filesize: ".6mb",
       close: false,
       tag: { isOpen: true, tagTitle: "Error...", tagColor: "green" },
